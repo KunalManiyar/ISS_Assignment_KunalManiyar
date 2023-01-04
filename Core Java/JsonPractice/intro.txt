@@ -1,0 +1,29 @@
+JSON stands for JavaScript Object Notation. JSON objects are used for transferring data between server and client.
+
+Syntax Rules:
+Data is specified as name and value pairs. There is colon “:” symbol between name and corresponding value, notice the “firstName” : “Chaitanya” pair in the following example.
+Multiple data items are separated by commas, notice the firstName, lastName and age are separated by commas.
+Curly braces are used to hold objects.
+Square brackets are used to hold arrays.
+
+Features of JSON:
+It is light-weight
+It is language independent
+Easy to read and write
+Text based, human readable data exchange format
+
+Why use Json:
+Standard Structure: As we have seen so far that JSON objects are having a standard structure that makes developers job easy to read and write code, because they know what to expect from JSON.
+
+Light weight: When working with AJAX, it is important to load the data quickly and asynchronously without requesting the page re-load. Since JSON is light weighted, it becomes easier to get and load the requested data quickly.
+
+Scalable: JSON is language independent, which means it can work well with most of the modern programming language. Let’s say if we need to change the server side language, in that case it would be easier for us to go ahead with that change as JSON structure is same for all the languages.
+
+
+JSON allows following data types:
+string
+number
+JSON object
+array
+boolean
+null

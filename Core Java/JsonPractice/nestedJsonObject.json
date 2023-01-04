@@ -1,0 +1,19 @@
+{
+  "steve" : {
+  "name" : "Steve",
+  "age" :  "29",
+  "gender" : "male" 
+},
+
+"pete" : {
+  "name" : "Peter",
+  "age" : "32",
+  "gender" : "male"
+},
+
+"sop" : {
+  "name" : "Sophie",
+  "age" : "27",
+  "gender" : "female"
+}
+}
